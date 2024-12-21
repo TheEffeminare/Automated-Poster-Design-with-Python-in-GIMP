@@ -69,10 +69,6 @@ This poster captures the essence of *The Garden Tantra*, reflecting the beauty o
 - **Layer Creation**: Automates layer setup for text and imagery.
 - **Customization**: Modify text content, fonts, and colors directly in the script.
 
-## Visual Showcase
-
-![Poster Preview](link-to-your-image)
-
 ## Acknowledgments
 
 Created with love, light, and rainbows. Inspired by *The Garden Tantra* by Vikram Kolmannskog.
